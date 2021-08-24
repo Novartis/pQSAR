@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+time
+regex
+joblib
+scikit-learn
+multiprocessing
+rdkit
+threading
+multiprocessing
+sqlite3
