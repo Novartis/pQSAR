@@ -183,6 +183,6 @@ year = {2011}
 ## Contact Information
 For help or issues using profile-QSAR, please submit a GitHub issue.
 
-For personal communication related to this package, please contact Eric Matin (eric.martin@novartis.com) and Xiangwei Zhu (xiangwei.zhu@novartis.com).
+For personal communication related to this package, please contact Eric Matin (eric.martin@novartis.com) and Xiangwei Zhu (xwzhunc@gmail.com).
 
 
